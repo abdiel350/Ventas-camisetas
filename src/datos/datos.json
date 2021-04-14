@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 0,
+        "nombre" : "HTML5",
+        "precio" : 25,
+        "imagen" : "camisa_1",
+        "descripcion": "HTML5  es la última versión de HTML. El término representa dos conceptos diferentes.Se trata de una nueva versión de HTML, con nuevos elementos, atributos y comportamientos."
+    },
+    {
+        "id" : 1,
+        "nombre" : "CSS3",
+        "precio" : 25,
+        "imagen" : "camisa_2",
+        "descripcion": " CSS3 es la última evolución del lenguaje de las Hojas de Estilo en Cascada (Cascading Style Sheets), y pretende ampliar la versión CSS2.1. Trae consigo muchas novedades altamente esperadas , como las esquinas redondeadas, sombras, gradientes , transiciones o animaciones, y nuevos layouts como multi-columnas, cajas flexibles o maquetas de diseño en cuadrícula (grid layouts)."
+    },
+    {
+        "id" : 2,
+        "nombre" : "NodeJS",
+        "precio" : 30,
+        "imagen" : "camisa_3",
+        "descripcion": "NODEJS es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome."
+    },
+    {
+        "id" : 3,
+        "nombre" : "JavaScript",
+        "precio" : 25,
+        "imagen" : "camisa_4",
+        "descripcion": "JavaScript es un lenguaje ligero e interpretado, orientado a objetos con funciones de primera clase, más conocido como el lenguaje de script para páginas web, pero también usado en muchos entornos sin navegador, tales como node.js, Apache CouchDB y Adobe Acrobat. Es un lenguaje script multi-paradigma, basado en prototipos, dinámico, soporta estilos de programación funcional, orientada a objetos e imperativa."
+    },
+    {
+        "id" : 4,
+        "nombre" : "Angular",
+        "precio" : 20,
+        "imagen" : "camisa_5",
+        "descripcion": "Angular es un framework para aplicaciones web desarrollado en TypeScript, de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página"
+    },
+    {
+        "id" : 5,
+        "nombre" : "Github",
+        "precio" : 20,
+        "imagen" : "camisa_6",
+        "descripcion": "GitHub es una forja para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador."
+    },
+    {
+        "id" : 6,
+        "nombre" : "WordPress",
+        "precio" : 25,
+        "imagen" : "camisa_7",
+        "descripcion": "WordPress es un sistema de gestión de contenidos lanzado el 27 de mayo de 2003, enfocado a la creación de cualquier tipo de página web."
+    },
+    {
+        "id" : 7,
+        "nombre" : "React",
+        "precio" : 20,
+        "imagen" : "camisa_8",
+        "descripcion": "React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre."
+    }
+]
